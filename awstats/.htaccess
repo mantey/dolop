@@ -1,0 +1,4 @@
+AuthName "dolop.com.br statistics"
+AuthType Basic
+AuthUserFile /home/dolop/.awstats-htpasswd
+require valid-user

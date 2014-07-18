@@ -1,0 +1,445 @@
+# Webalizer V2.23-05 Incremental Data - 07/18/2014 02:06:54
+2014 7 18 2 6 54
+1069 677 32 79 24 13 12828126 904 62 0 0 0
+1 1 99 13 18
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+25 6 25376 8 24 9 0 0
+276 190 5209635 5 222 13 0 0
+246 150 2942459 12 222 15 0 0
+237 157 1535278 9 192 12 0 0
+284 173 3107058 6 243 14 0 0
+1 1 8320 1 1 1 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+123 68 653513 102 0 0
+8 5 8781 5 0 0
+56 47 141941 50 0 0
+2 0 1266 2 0 0
+6 3 16553 5 0 0
+2 2 6725 1 0 0
+6 1 3040 6 0 0
+3 0 8902 3 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+5 2 125686 5 0 0
+18 11 52742 14 0 0
+156 120 3095765 126 0 0
+61 45 981577 41 0 0
+2 1 65688 2 0 0
+13 0 6085 13 0 0
+12 7 73643 9 0 0
+32 21 63202 31 0 0
+3 1 107095 3 0 0
+12 8 80270 12 0 0
+162 95 1839094 141 0 0
+87 49 1523279 69 0 0
+138 99 2089067 119 0 0
+162 92 1884212 145 0 0
+0
+0
+0
+677
+0
+0
+0
+0
+0
+2
+0
+9
+49
+0
+195
+0
+0
+0
+0
+0
+3
+59
+9
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+65
+1
+0
+0
+0
+0
+# -urls- 
+/users
+0 7 0 5404 2 3 0 0
+/articles/edit/1
+0 8 0 7853 2 1 0 0
+/phpmyadmin/version_check.php
+0 10 0 4460 0 0 0 0
+/list/0
+0 1 0 1468 0 0 0 0
+/phpmyadmin/tbl_change.php
+0 6 0 209506 0 0 0 0
+/phpmyadmin/
+0 109 0 381257 2 2 0 0
+/tasks/add/1
+0 7 0 10994 0 0 0 0
+/phpmyadmin/themes/original/img/ajax_clock_small.gif
+1 3 0 2476 0 0 0 0
+/phpmyadmin/themes/original/img/b_calendar.png
+1 1 0 492 0 0 0 0
+/phpmyadmin/themes/pmahomme/jquery/images/ui-bg_flat_75_ffffff_40x100.png
+1 2 0 935 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/b_calendar.png
+1 2 0 1856 0 0 0 0
+/task/check
+0 14 0 9479 0 2 0 0
+/phpmyadmin/themes/pmahomme/img/logo_left.png
+1 5 0 5798 0 0 0 0
+/articles
+0 70 0 97472 2 4 0 0
+/phpmyadmin/themes/pmahomme/jquery/images/ui-bg_highlight-soft_75_cccccc_1x100.png
+1 2 0 782 0 0 0 0
+/articles/insert
+0 27 0 41615 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/arrow_ltr.png
+1 4 0 1227 0 0 0 0
+/phpmyadmin/tbl_sql.php
+0 1 0 8892 0 0 0 0
+/phpmyadmin/themes/pmahomme/jquery/images/ui-icons_222222_256x240.png
+1 2 0 9323 0 0 0 0
+/phpmyadmin/js/get_image.js.php
+0 19 0 25860 2 1 0 0
+/assets/js/test3.js
+0 16 0 3645 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/b_no_favorite.png
+1 2 0 33438 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/col_drop.png
+1 3 0 1028 0 0 0 0
+/phpmyadmin/navigation.php
+0 18 0 69620 0 0 0 0
+/favicon.ico
+0 4 0 1204 0 0 0 0
+/assets/js/test1.js
+0 16 0 3632 0 0 0 0
+/posttt
+0 1 0 705 0 1 0 0
+/phpmyadmin/themes/pmahomme/jquery/images/ui-bg_flat_0_aaaaaa_40x100.png
+1 1 0 469 0 0 0 0
+/gettt
+0 1 0 704 1 0 0 0
+/phpmyadmin/tbl_create.php
+0 1 0 531 0 0 0 0
+/list
+0 15 0 22097 0 1 0 0
+/articles/edit/8
+0 1 0 1788 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/col_pointer.png
+1 3 0 989 0 0 0 0
+/phpmyadmin/themes/pmahomme/jquery/jquery-ui-1.9.2.custom.css
+0 6 0 13875 0 0 0 0
+/phpmyadmin/themes/pmahomme/jquery/images/ui-bg_glass_75_dadada_1x400.png
+1 2 0 897 0 0 0 0
+/login
+0 15 0 23498 1 1 0 0
+/tasks
+0 62 0 109934 2 0 0 0
+/phpmyadmin/js/get_scripts.js.php
+0 42 0 6806933 0 0 0 0
+/list/create
+0 7 0 11153 0 0 0 0
+/articles/edit/6
+0 8 0 13566 0 0 0 0
+/phpmyadmin/themes/original/img/logo_left.png
+1 3 0 7465 0 0 0 0
+/tasks/add/2
+0 6 0 9397 1 1 0 0
+/phpmyadmin/themes/pmahomme/jquery/images/ui-bg_glass_65_ffffff_1x400.png
+1 2 0 788 0 0 0 0
+/tasks/add
+0 39 0 63685 1 2 0 0
+/phpmyadmin/error_report.php
+0 3 0 1591 0 0 0 0
+/phpmyadmin/themes/pmahomme/jquery/images/ui-bg_glass_55_fbf9ee_1x400.png
+1 1 0 410 0 0 0 0
+/phpmyadmin/server_databases.php
+0 1 0 7339 0 0 0 0
+/phpmyadmin/js/messages.php
+0 19 0 377296 0 0 0 0
+/list/2
+0 3 0 5228 0 0 0 0
+/phpmyadmin/favicon.ico
+0 2 0 38420 0 0 0 0
+/phpmyadmin/db_structure.php
+0 12 0 92634 1 0 0 0
+/phpmyadmin/sql.php
+0 52 0 995637 1 0 0 0
+/phpmyadmin/themes/pmahomme/img/ajax_clock_small.gif
+1 5 0 4765 0 0 0 0
+/phpmyadmin/themes/original/jquery/images/ui-bg_flat_75_ffffff_40x100.png
+1 1 0 467 0 0 0 0
+/phpmyadmin/themes/original/jquery/jquery-ui-1.9.2.custom.css
+0 5 0 7356 0 0 0 0
+/phpmyadmin/phpmyadmin.css.php
+0 21 0 353728 0 0 0 0
+/
+0 46 0 259945 26 8 0 0
+/phpmyadmin/themes/pmahomme/img/logo_right.png
+1 6 0 10433 0 0 0 0
+/phpmyadmin/tbl_structure.php
+0 17 0 525948 0 0 0 0
+/articles/edit/2
+0 2 0 1919 0 0 0 0
+/phpmyadmin/themes/original/img/sprites.png
+1 2 0 20989 0 0 0 0
+/phpmyadmin/themes/dot.gif
+1 13 0 2703 0 0 0 0
+/phpmyadmin/themes/pmahomme/jquery/images/ui-bg_glass_75_e6e6e6_1x400.png
+1 2 0 800 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/left_nav_bg.png
+1 4 0 1546 0 0 0 0
+/phpmyadmin/themes/original/img/arrow_ltr.png
+1 4 0 1228 0 0 0 0
+/assets/js/test2.js
+0 16 0 3639 0 0 0 0
+/cadastro
+0 3 0 4787 0 0 0 0
+/robots.txt
+0 2 0 762 0 0 0 0
+/phpmyadmin/themes/original/img/logo_right.png
+1 5 0 10245 0 0 0 0
+/phpmyadmin/import.php
+0 3 0 4369 0 0 0 0
+/phpmyadmin/db_operations.php
+0 3 0 43120 0 1 0 0
+/list/1
+0 7 0 12190 2 0 0 0
+/phpmyadmin/themes/original/img/col_drop.png
+1 3 0 1028 0 0 0 0
+/task/add
+0 16 0 25359 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/s_fulltext.png
+1 3 0 1149 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/sprites.png
+1 4 0 93141 0 0 0 0
+/phpmyadmin/themes/original/img/s_fulltext.png
+1 4 0 1334 0 0 0 0
+/phpmyadmin/themes/original/img/col_pointer.png
+1 3 0 966 0 0 0 0
+/phpmyadmin/tbl_replace.php
+0 7 0 109447 0 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+217.172.179.239
+0 1 1 8299 1 1405466110 0 0
+/
+54.227.195.79
+0 2 2 1154 2 1405532875 0 0
+/
+93.174.95.55
+0 2 2 16644 2 1405357842 0 0
+/
+188.190.100.50
+0 3 0 1504 1 1405227177 0 0
+-
+2.115.99.80
+0 13 0 6085 1 1405265524 0 0
+-
+50.116.5.18
+0 1 1 8320 1 1405311286 0 0
+/
+54.80.197.238
+0 1 1 212 1 1405290141 0 0
+/
+66.249.74.141
+0 2 2 6725 1 1405403573 0 0
+/
+37.187.183.157
+0 1 0 57337 1 1405548398 0 0
+-
+66.240.192.138
+0 2 1 67339 1 1405463441 0 0
+/
+54.205.184.174
+0 2 1 738 2 1405406011 0 0
+/
+54.198.149.180
+0 1 1 583 1 1405637122 0 0
+/
+95.211.138.10
+0 1 0 49232 1 1405450165 0 0
+/
+190.229.117.46
+0 1 1 9942 1 1405454496 0 0
+/
+192.81.131.15
+0 1 1 8320 1 1405649214 0 0
+/
+67.159.80.209
+0 1 1 649 1 1405591646 0 0
+/
+71.6.167.142
+0 2 1 67372 1 1405507052 0 0
+/
+23.99.100.145
+0 1 1 278 1 1405286126 0 0
+/
+58.212.237.106
+0 1 0 15693 0 0 0 0
+-
+66.249.83.40
+0 6 6 19942 3 1405546047 0 0
+/
+54.224.88.181
+0 1 1 577 1 1405467778 0 0
+/
+122.226.223.69
+0 1 0 5120 1 1405496369 0 0
+-
+117.21.226.160
+0 1 0 57504 1 1405622089 0 0
+-
+222.186.56.7
+0 1 0 57502 1 1405442723 0 0
+-
+178.19.99.22
+0 1 0 46720 1 1405627163 0 0
+-
+217.31.48.30
+0 2 0 1266 1 1405482712 0 0
+-
+201.6.236.170
+0 1000 653 12177752 25 1405639692 0 0
+/login
+115.239.248.56
+0 2 0 62508 2 1405506332 0 0
+-
+66.249.76.105
+0 2 2 6729 1 1405485865 0 0
+/
+5.248.40.167
+0 1 0 57368 1 1405436253 0 0
+-
+183.136.216.103
+0 10 0 4930 2 1405629653 0 0
+-
+198.20.69.74
+0 2 0 3782 1 1405235108 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+192.81.131.15
+0 1 1 8320 1 1405649214 0 0
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://dolop.com.br/articles/edit/2
+0 4
+http://dolop.com.br/tasks/add
+0 42
+http://dolop.com.br/cadastro
+0 4
+http://dolop.com.br/tasks/add/2
+0 3
+http://dolop.com.br/list/create
+0 4
+http://hotel.qunar.com/
+0 1
+http://dolop.com.br/articles/edit/6
+0 12
+http://dolop.com.br/phpmyadmin/sql.php
+0 10
+http://dolop.com.br/articles
+0 77
+http://dolop.com.br/articles/edit/1
+0 6
+http://dolop.com.br/list
+0 18
+- (Direct Request)
+0 246
+http://dolop.com.br/list/0
+0 1
+http://dolop.com.br/list/2
+0 8
+http://dolop.com.br/phpmyadmin/index.php
+0 402
+http://dolop.com.br/list/1
+0 14
+http://dolop.com.br/tasks
+0 95
+http://dolop.com.br/login
+0 19
+http://dolop.com.br/articles/insert
+0 32
+http://dolop.com.br/phpmyadmin/tbl_replace.php
+0 6
+http://dolop.com.br/phpmyadmin/db_operations.php
+0 4
+http://dolop.com.br/task/add
+0 23
+http://dolop.com.br/tasks/add/1
+0 3
+http://dolop.com.br/phpmyadmin/tbl_structure.php
+0 35
+# End Of Table - referrers
+# -agents- 
+Cloud mapping experiment. Contact research@pdrlabs.net
+0 7
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36
+0 1000
+Mozilla/5.0 (Windows NT 6.1; rv:6.0) Gecko/20110814 Firefox/6.0 Google favicon
+0 6
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 4
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98)
+0 13
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CL
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 6.1; it; rv:2.0b4) Gecko/20100818
+0 1
+Python-httplib2/0.7.4 (gzip)
+0 2
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/22.0.1229.79 Safari/537.4
+0 3
+Mozilla/3.0 (compatible; Indy Library)
+0 4
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+0 11
+masscan/1.0 (https://github.com/robertdavidgraham/masscan)
+0 4
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

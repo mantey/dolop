@@ -1,0 +1,340 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201407 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.dolop.com.br.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1992                
+POS_TIME 2662                
+POS_VISITOR 7250                
+POS_DAY 7847                
+POS_DOMAIN 3339                
+POS_LOGIN 3597                
+POS_ROBOT 3752                
+POS_WORMS 3991                
+POS_EMAILSENDER 4122                
+POS_EMAILRECEIVER 4265                
+POS_SESSION 8050                
+POS_SIDER 8225                
+POS_FILETYPES 4400                
+POS_DOWNLOADS 4573                
+POS_OS 4642                
+POS_BROWSER 4701                
+POS_SCREENSIZE 4786                
+POS_UNKNOWNREFERER 4860                
+POS_UNKNOWNREFERERBROWSER 5091                
+POS_ORIGIN 5317                
+POS_SEREFERRALS 5455                
+POS_PAGEREFS 5599                
+POS_SEARCHWORDS 5747                
+POS_KEYWORDS 5899                
+POS_MISC 2326                
+POS_ERRORS 5958                
+POS_CLUSTER 3453                
+POS_SIDER_404 6130                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20140718063225 1072 330441 2798170145850
+FirstTime 0
+LastTime 20140718020654
+LastUpdate 20140718065901 220 0 220 0 0
+TotalVisits 29                  
+TotalUnique 9                   
+MonthHostsKnown 8                   
+MonthHostsUnknown 1                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 6 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 67 88 172139 35 35 475388
+1 5 8 8159 0 0 0
+2 47 53 97971 3 3 42726
+3 0 0 0 2 2 1266
+4 1 1 8320 4 5 8233
+5 0 0 0 2 4 13456
+6 1 1 575 6 6 3000
+7 0 0 0 2 2 7234
+8 0 0 0 0 0 0
+9 0 0 0 0 0 0
+10 0 0 0 4 4 68327
+11 11 14 33659 4 4 18461
+12 120 146 3021396 6 10 34118
+13 39 59 920575 2 2 16459
+14 1 1 8320 1 1 57368
+15 0 0 0 13 13 6085
+16 7 10 14593 2 2 58427
+17 19 19 33250 12 13 29952
+18 1 1 359 2 2 106736
+19 8 8 15501 4 4 64769
+20 111 132 1478667 30 30 252327
+21 59 75 1384753 10 12 45654
+22 99 118 1756630 19 19 197931
+23 103 119 1487512 42 43 281562
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 3
+br 689 843 10405994
+com 8 8 19741
+ip 2 2 16644
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+no_user_agent 6 39161 20140717100726 0
+googlebot 6 20185 20140718055259 3
+favicon 3 19039 20140716212727 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+css 11 19548 0 0
+php 379 9738291 0 0
+png 74 195071 0 0
+js 48 2205 0 0
+Unknown 320 480295 0 0
+gif 21 6969 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/robots.txt 3 0 1143
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 2
+Unknown 10
+win7 843
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 2
+chrome35.0.1916.153 843
+Unknown 10
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+masscan/1.0_(https://github.com/robertdavidgraham/masscan) 20140718020654
+Cloud_mapping_experiment._Contact_research@pdrlabs.net 20140717224522
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+masscan/1.0_(https://github.com/robertdavidgraham/masscan) 20140718020654
+Cloud_mapping_experiment._Contact_research@pdrlabs.net 20140717224522
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 130 130
+From1 0 0
+From2 0 0
+From3 0 0
+From4 569 723
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 8
+403 3 2739
+206 2 9303
+400 1 535
+302 49 42701
+500 63 754568
+405 9 147584
+404 59 709020
+301 9 5020
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 34
+//cgi-bin/php3 1 -
+//cgi-bin/php_cgi 1 -
+http://hotel.qunar.com/render/hoteldiv.jsp 1 http://hotel.qunar.com/
+//cgi-bin/php5 1 -
+/task/add 3 http://dolop.com.br/tasks
+/admin.php 1 -
+/cgi-bin/php 2 -
+/sss 1 -
+/cgi-bin/php5 2 -
+/cgi-bin/php4 2 -
+/packeges 1 -
+//local-bin/php 1 -
+/cgi-bin/php-cgi 2 -
+/tasks/add/1 1 -
+//index.php 1 -
+//cgi-bin/php.cgi 1 -
+//cgi-bin/php 1 -
+/list/add 1 -
+/rom-0 2 -
+//phppath/php5 1 -
+/tasks/add 11 http://dolop.com.br/tasks
+/articles/edit/1 1 http://dolop.com.br/articles
+/administrator/ 1 -
+//cgi-bin/php-cgi 1 -
+/manager/html 4 -
+/articles/edit/9 1 http://dolop.com.br/articles
+//cgi-bin/php4 1 -
+/task/add/1 4 http://dolop.com.br/list/1
+/login 1 -
+//phppath/php 1 -
+/wp-login.php 2 -
+/etc/lib/pChart2/examples/imageMap/index.php 1 -
+/cgi-bin/php.cgi 2 -
+//local-bin/php5 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 9
+c906ecaa.virtua.com.br 689 843 10405994 20140717232812
+ec2-54-227-195-79.compute-1.amazonaws.com 2 2 1154 20140716174755
+93.174.95.55 2 2 16644 20140714171042
+li594-15.members.linode.com 1 1 8320 20140718020654
+ec2-54-224-88-181.compute-1.amazonaws.com 1 1 577 20140715234258
+ec2-54-198-149-180.compute-1.amazonaws.com 1 1 583 20140717224522
+ec2-54-80-197-238.compute-1.amazonaws.com 1 1 212 20140713222221
+li431-18.members.linode.com 1 1 8320 20140714041446
+ec2-54-205-184-174.compute-1.amazonaws.com 1 1 575 20140715063331
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 6
+20140713 3 3 6916 3
+20140714 192 244 4837570 8
+20140715 158 179 2155539 5
+20140716 158 201 970471 5
+20140717 187 225 2463563 7
+20140718 1 1 8320 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+1h+ 6
+0s-30s 17
+15mn-30mn 2
+30mn-1h 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 41
+/phpmyadmin/ 109 315425 0 1
+/articles 70 97472 0 3
+/tasks 62 109934 3 0
+/phpmyadmin/sql.php 52 995637 1 0
+/phpmyadmin/js/get_scripts.js.php 42 6806933 0 0
+/tasks/add 39 63685 1 2
+/ 35 189053 13 13
+/articles/insert 27 41615 1 0
+/phpmyadmin/phpmyadmin.css.php 21 171248 0 0
+/phpmyadmin/js/messages.php 19 158860 0 0
+/task/add 16 25359 0 0
+/phpmyadmin/server_databases.php 1 7339 0 0
+/phpmyadmin/tbl_change.php 6 209506 0 0
+/articles/edit/6 8 13566 0 0
+/cadastro 3 4787 0 0
+/phpmyadmin/db_structure.php 12 92634 0 0
+/articles/edit/8 1 1788 0 0
+/tasks/add/2 6 9397 0 1
+/phpmyadmin/tbl_sql.php 1 8892 0 0
+/list 15 22097 0 1
+/list/1 7 12190 2 0
+/articles/edit/2 2 1919 0 0
+/phpmyadmin/db_operations.php 3 43120 0 0
+/tasks/add/1 7 10994 0 0
+/phpmyadmin/tbl_structure.php 17 525948 0 0
+/phpmyadmin/version_check.php 10 4460 0 0
+/gettt 1 704 1 0
+/list/create 7 11153 1 1
+/task/check 14 9479 0 3
+/list/2 3 5228 0 0
+/posttt 1 705 0 1
+/articles/edit/1 8 7853 1 0
+/phpmyadmin/tbl_create.php 1 531 0 0
+/phpmyadmin/import.php 3 4369 0 0
+/users 7 5404 3 2
+/phpmyadmin/navigation.php 18 69620 0 0
+/phpmyadmin/tbl_replace.php 7 109447 0 0
+/phpmyadmin/js/get_image.js.php 19 23678 0 0
+/login 15 23498 2 1
+/list/0 1 1468 0 0
+/phpmyadmin/error_report.php 3 1591 0 0
+END_SIDER
